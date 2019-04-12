@@ -1,2 +1,2 @@
 # GITTutorial1
-Tutorial repo
+Tutorial GIT repo
